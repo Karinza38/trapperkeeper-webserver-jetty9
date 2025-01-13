@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/puppetlabs/trapperkeeper-webserver-jetty9.png?branch=master)](https://travis-ci.org/puppetlabs/trapperkeeper-webserver-jetty9)
+ [![Build Status](https://travis-ci.org/puppetlabs/trapperkeeper-webserver-jetty9.png?branch=master)](https://travis-ci.org/puppetlabs/trapperkeeper-webserver-jetty9)
 
 ## Trapperkeeper Webserver Service
 
